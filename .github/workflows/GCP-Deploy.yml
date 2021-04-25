@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-#
+
     push:
 
         name: Setup Gcloud Account
